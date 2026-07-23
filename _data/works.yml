@@ -1,0 +1,14 @@
+# Works shown on the landing page. Add a new entry here to add a card —
+# order is top-to-bottom. Use "#" for url until a work has its own site.
+- title: "The Resonance War"
+  type: "Series &middot; Epic Urban Fantasy"
+  desc: "Immortal warriors. Mortal vessels. A fracture older than civilization — and the wars it never stopped waging."
+  url: "the-resonance-war/index.html"
+- title: "Elanthira"
+  type: "Series &middot; Epic Fantasy"
+  desc: "The goddess gave women magic and took it from men — all but the few born to amplify it. In a world torn apart by war, sorceresses rule and Exemplars are bound to them. The bond is power. The bond is everything."
+  url: "#"
+- title: "Short Fiction"
+  type: "Standalone Stories"
+  desc: "Myth, war, and the sacred violence of transformation — told in smaller cuts."
+  url: "#"

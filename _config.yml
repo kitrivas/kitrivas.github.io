@@ -1,0 +1,14 @@
+title: Kit Rivas
+description: Epic fantasy. Myth made modern.
+url: https://kitrivas.com
+baseurl: ""            # user page served at the apex domain — no path prefix
+
+# Fonts loaded in _includes/head.html
+google_fonts: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Inter:wght@300;400;500&display=swap"
+
+# Don't let Jekyll copy build/config files into the output
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
